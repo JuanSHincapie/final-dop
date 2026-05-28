@@ -1,0 +1,42 @@
+
+/target
+Cargo.lock
+
+*.meta
+*.log
+
+# =========================
+# Sistema operativo
+# =========================
+.DS_Store
+Thumbs.db
+
+.vscode/
+
+.rust-analyzer/
+
+*.tmp
+*.temp
+
+*.pdb
+
+dist/
+build/
+
+.cache/
+
+*.exe
+*.dll
+*.so
+*.dylib
+
+logs/
+*.log
+
+exports/
+screenshots/
+
+
+*.aseprite-autosave
+*.blend1
+*.blend2

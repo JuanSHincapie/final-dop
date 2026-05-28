@@ -1,0 +1,3 @@
+﻿pub const DEFAULT_PLAYER_HEALTH: f32 = 100.0;
+pub const DEFAULT_PLAYER_ATTACK: f32 = 10.0;
+
